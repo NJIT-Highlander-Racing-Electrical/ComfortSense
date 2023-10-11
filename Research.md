@@ -35,3 +35,7 @@ https://cdn.sparkfun.com/assets/learn_tutorials/5/4/6/hx711F_EN.pdf?_gl=1*1ka14c
 
 
 potential multiplex?
+
+https://www.aliexpress.us/item/3256805730336660.html?spm=a2g0o.productlist.main.11.2642tDfvtDfvS5&algo_pvid=02e34afe-7658-452d-abd0-6aa0b64624a9&algo_exp_id=02e34afe-7658-452d-abd0-6aa0b64624a9-5&pdp_npi=4%40dis%21USD%2111.27%2110.71%21%21%2111.27%21%21%40210313e916970541158781993e17ec%2112000034838587966%21sea%21US%210%21AB&curPageLogUid=cQXEl6BgZatw
+
+https://www.aliexpress.us/item/3256805792961653.html?spm=a2g0o.detail.0.0.eb87dN0rdN0rIs&mp=1&gatewayAdapt=glo2usa
