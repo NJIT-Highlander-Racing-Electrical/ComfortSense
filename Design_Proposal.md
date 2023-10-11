@@ -1,6 +1,8 @@
 # Design Proposal
 
 
+## Bill of Materials
+
 
 ## Physical Seat Setup
 
