@@ -31,3 +31,7 @@ bathroom scales combine 4 load cells to 1 amp to get 1 reading
 https://www.amazon.com/CHENBO-Weighing-Dual-Channel-Precision-Pressure/dp/B01D1FECVI/ref=pd_bxgy_sccl_1/133-4782788-9217400?pd_rd_w=txPd2&content-id=amzn1.sym.21b577c4-6435-4581-8b53-49da41e27328&pf_rd_p=21b577c4-6435-4581-8b53-49da41e27328&pf_rd_r=7QH2TB9W1ESGWTV4RMJ1&pd_rd_wg=6fArm&pd_rd_r=9729d353-f7f2-438f-8cfc-4bbda5427ffc&pd_rd_i=B01D1FECVI&psc=1
 
 https://cdn.sparkfun.com/assets/learn_tutorials/5/4/6/hx711F_EN.pdf?_gl=1*1ka14cx*_ga*NzU0MTQ4MDEzLjE2OTU2NzQzNTI.*_ga_T369JS7J9N*MTY5NjA5NDIwMy4yLjEuMTY5NjA5NTcwMS42MC4wLjA.
+
+
+
+potential multiplex?
