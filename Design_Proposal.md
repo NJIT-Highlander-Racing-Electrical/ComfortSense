@@ -1,8 +1,14 @@
 # Design Proposal
 
+* Short description about how this device will function
 
 ## Bill of Materials
 
+* List of all materials that will be used here, their purpose, cost, quantity, etc
+
+## Electrical Design
+
+* Information here about the electrical design, starting from the output of the load cell and ending at the Arduino data logging (0-100% of each load cell?)
 
 ## Physical Seat Setup
 
