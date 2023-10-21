@@ -53,3 +53,8 @@ https://www.ebay.com/itm/175038800753?_trkparms=amclksrc%3DITM%26aid%3D1110006%2
 
 
 
+
+
+
+hx711 data sheet
+https://cdn.sparkfun.com/assets/learn_tutorials/5/4/6/hx711F_EN.pdf?_gl=1*1ka14cx*_ga*NzU0MTQ4MDEzLjE2OTU2NzQzNTI.*_ga_T369JS7J9N*MTY5NjA5NDIwMy4yLjEuMTY5NjA5NTcwMS42MC4wLjA.
