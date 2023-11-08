@@ -1,3 +1,6 @@
+capacitive gives you pretty pressure map
+we are doing load cells- it think resitive but we measure voltage from load cell
+
 https://www.sparkfun.com/datasheets/Sensors/Pressure/fsrguide.pdf
 link to a guide on fsrs- they are expensive and can be finiky with retesting/calibration
 my other idea was too use some type of velostat and make a mat like
